@@ -1,0 +1,26 @@
+[11704:14308:0516/221224.465:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[11704:14308:0516/221225.166:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[14436:18812:0516/221243.266:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-849B021ADE54B11A71A1832D8F241332 will be ignored
+[11704:15540:0516/221245.987:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[11704:15540:0516/221246.036:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[11704:15540:0516/221246.970:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,5]
+[11704:14308:0516/221247.133:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,5]
+[11704:14308:0516/221247.134:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,5]
+[11704:14308:0516/221247.134:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,5]
+[11704:14308:0516/221247.134:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,5]
+[11704:15540:0516/221247.310:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,5]
+[4640:6224:0516/221252.898:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[4640:6224:0516/221255.046:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[4640:9820:0516/221255.083:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[4640:9820:0516/221255.084:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[4640:9820:0516/221255.085:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[6048:13188:0516/221255.326:WARNING:host_resolver_dns_task.cc(863)] Address list empty after RFC3484 sort
+[6048:13188:0516/221255.334:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.cloudflare.com., errorcode: -105
+[6048:13188:0516/221255.334:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.cloudflare.com., errorcode: -105
+[6048:13188:0516/221255.334:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.cloudflare.com., errorcode: -105
+[4640:9820:0516/221255.334:WARNING:stun_port.cc(442)] Port[4e98000:0:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[4640:9820:0516/221255.334:WARNING:stun_port.cc(442)] Port[4e98400:1:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[4640:9820:0516/221255.334:WARNING:stun_port.cc(442)] Port[4e98c00:2:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[15332:6184:0516/221502.726:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[15332:6184:0516/221502.728:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[11704:14308:0516/224319.913:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
