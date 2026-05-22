@@ -1,8 +1,0 @@
-[5520:12196:0517/002536.467:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[5520:12196:0517/002537.214:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[4332:13896:0517/002555.089:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-0D64149E4B049FD21485B0C720917B38 will be ignored
-[5520:18928:0517/002555.810:ERROR:cast_crl.cc(443)] CRL - Verification failed.
-[5520:18928:0517/002557.298:ERROR:cast_crl.cc(443)] CRL - Verification failed.
-[5520:12196:0517/002619.777:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[5520:12196:0517/002650.336:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[5520:12196:0517/003409.077:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.

@@ -1,5 +1,0 @@
-[17332:9236:0516/235302.996:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[17332:9236:0516/235303.725:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[4984:12260:0516/235318.997:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-3F0A0B8367B24F05F8814222F22414AF will be ignored
-[17332:18068:0516/235319.674:ERROR:cast_crl.cc(443)] CRL - Verification failed.
-[17332:18068:0516/235323.591:ERROR:cast_crl.cc(443)] CRL - Verification failed.
