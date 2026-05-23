@@ -1,5 +1,0 @@
-[11820:14340:0518/193811.507:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[11820:14340:0518/193812.280:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[11820:17012:0518/193841.544:ERROR:cast_crl.cc(443)] CRL - Verification failed.
-[11820:14340:0518/193918.490:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[11820:14340:0518/201936.752:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0

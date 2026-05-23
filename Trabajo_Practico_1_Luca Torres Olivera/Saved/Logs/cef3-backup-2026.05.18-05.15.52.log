@@ -1,6 +1,0 @@
-[11876:14124:0518/021532.912:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[11876:14124:0518/021533.706:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[11876:14124:0518/021548.605:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[2168:8336:0518/021552.345:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-ABFBD4AC2FB9EFA298E7CF8DE4D88035 will be ignored
-[11876:9040:0518/021552.495:ERROR:cast_crl.cc(443)] CRL - Verification failed.
-[11876:14124:0518/021552.918:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
